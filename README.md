@@ -12,7 +12,7 @@
 Django server-side new adapter for [Inertia.js](https://inertiajs.com).
 
 
-## Getting Started
+## Getting Started.
 
 ### Install the package
 
